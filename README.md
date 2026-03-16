@@ -1,14 +1,26 @@
 <!-- HEADER -->
 <h1 align="center">Hi , I'm Sebastian Perez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h4 align="center">Driving efficiency through Intelligent Software solutions</h4>
-<h3 align="center">Full Stack developer | AI estudient at UNR</h3>
+<h3 align="center">Full Stack developer | AI Studient at UNR</h3>
 <hr>
+
+<!-- ABOUT ME -->
+## 🧑‍💻 About Me
+
+I am a Full Stack Developer and **AI Student at UNR** with a background in **Industrial Engineering**. This unique combination allows me to build software solutions focused on **operational efficiency** and **data-driven decision making**.
+
+- 🚀 **Currently Building:** [Stockeado App](https://github.com/tu-usuario/galape), a SaaS platform designed to streamline financial and inventory management for small businesses.
+- 🧠 **Focus:** Building robust web applications with **Next.js**, **TypeScript**, and **Prisma**, while integrating AI models to solve real-world problems.
+- 🌱 **Learning:** Diving deeper into **Multi-Agent Systems** and scalable cloud architectures.
+- ⚡ **Goal:** Engineering intelligent software that transforms complexity into simplicity.
+
+---
 
 <!-- STACK -->
 ### 📊 My Stack
 <h4 align="center">💻Full-Stack Development</h4> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,express,prisma,mysql&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,express&perline=10"  />
 </p>
 
 <h4 align="center">⚙️Backend & Infrastructure</h4> 
