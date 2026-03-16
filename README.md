@@ -9,7 +9,7 @@
 
 I am a Full Stack Developer and **AI Student at UNR** with a background in **Industrial Engineering**. This unique combination allows me to build software solutions focused on **operational efficiency** and **data-driven decision making**.
 
-- 🚀 **Currently Building:** [Stockeado App](https://github.com/tu-usuario/galape), a SaaS platform designed to streamline financial and inventory management for small businesses.
+- 🚀 **Currently Building:** [Stockeado App](https://github.com/PerezSebastian/Stockeado-app), a SaaS platform designed to streamline financial and inventory management for small businesses.
 - 🧠 **Focus:** Building robust web applications with **Next.js**, **TypeScript**, and **Prisma**, while integrating AI models to solve real-world problems.
 - 🌱 **Learning:** Diving deeper into **Multi-Agent Systems** and scalable cloud architectures.
 - ⚡ **Goal:** Engineering intelligent software that transforms complexity into simplicity.
