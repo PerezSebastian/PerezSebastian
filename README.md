@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <h1 align="center">Hi , I'm Sebastian Perez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h4 align="center">Driving efficiency through Intelligent Software solutions</h4>
-<h3 align="center">Full Stack developer | AI Studient at UNR</h3>
+<h3 align="center">Full Stack Developer | AI Student at UNR</h3>
 <hr>
 
 <!-- ABOUT ME -->
